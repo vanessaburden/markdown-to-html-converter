@@ -1,4 +1,4 @@
-#Markdown to html converter
+## Markdown to html converter
 
 This C program converts markdown to html! Use via your terminal window to ouput html to a file output.html.
 
